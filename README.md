@@ -1,7 +1,7 @@
 # Primes multiplication table
 
 The program prints out a multiplication table of the first N prime numbers.
-The program runs from the command line and print to screen one table.
+The program runs from the command line and prints to screen one table.
 
 ## Run
 
